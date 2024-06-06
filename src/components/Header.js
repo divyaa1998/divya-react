@@ -7,9 +7,9 @@ const Header = () => {
 
 
    useEffect(() => {
-    console.log('use effect called!!');
+
    },[btnNameReact])
-  console.log('Header rendered');
+
     return (
       <div className="header">
          <div className="header-logo">
