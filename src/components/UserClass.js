@@ -1,5 +1,5 @@
 import React from 'react';
-import TableClass from './TableClass';
+
 class UserClass extends React.Component{
      constructor(props){
        super(props);

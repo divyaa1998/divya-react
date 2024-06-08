@@ -1,7 +1,7 @@
 import User from "./User";
 import UserClass from "./UserClass";
 import React from "react";
-import TableClass from "./TableClass";
+
 class About extends React.Component{
     constructor(props){
         super(props);
